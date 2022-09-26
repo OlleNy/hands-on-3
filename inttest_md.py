@@ -1,3 +1,3 @@
 import md
 
-md.run(md)
+md.run_md(md)
